@@ -6,7 +6,7 @@ O projeto Desafio Itaú - API de Cadastro tem como objetivo facilitar o gerencia
 
 ## Ferramentas Utilizadas
 
-- **Python 3:** Linguagem de programação utilizada para desenvolver a API.
+- **[Python 3:](https://docs.python.org/pt-br/3/tutorial/)** Linguagem de programação utilizada para desenvolver a API.
 - **Tkinter:** Biblioteca gráfica usada para criar a interface do usuário.
 - **MySQL:** Sistema de gerenciamento de banco de dados utilizado para armazenar as informações dos clientes.
 
